@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Lead Manager",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "design 2.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
